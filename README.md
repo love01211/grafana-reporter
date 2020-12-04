@@ -1,2 +1,2 @@
 # grafana-reporter
-中文汉化，替换latex打印pdf，title支持中文
+时间格式化为yyyy-MM-dd HH:MM:SS，替换latex打印pdf，title支持中文
