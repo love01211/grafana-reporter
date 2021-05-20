@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/IzakMarais/reporter/grafana"
-	"github.com/IzakMarais/reporter/report"
+	"grafana-reporter/grafana"
+	"grafana-reporter/report"
 	"github.com/gorilla/mux"
 )
 
